@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(224, 225, 226);
+}
+
+.add{
+    background-color: black;
+    color: blanchedalmond;
+    border-style:solid;
+    padding-right: 20px;
+    border-radius:10px;
+
+}
+
+.add:hover{
+    background-color: rgb(179, 120, 179);
+    color: wheat;
+}
+
+.todo{
+    padding-top: 20px;
+    padding-right: 110px;
+    border-radius: 15px;
+    
+
+    
+}
+.design{
+    background-color: black;
+    color: white;
+    margin:auto;
+    padding:30px;
+    border-radius: 20px;
+}
+.container{
+    margin:100px;
+}
+
+
+
+#addToDo {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.paragraph-styling {
+    margin:auto;
+    cursor: pointer;
+    font-size: 20px;
+}
