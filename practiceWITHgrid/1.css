@@ -1,0 +1,41 @@
+/* body{
+  background-color: black;
+}
+.navbar{
+  display: flex;
+  border: 4px solid black;
+  align-items: center;
+  justify-content: space-between;
+}
+.bb{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  color: aliceblue;
+} */
+
+
+body{
+  margin: 0%;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width:100%;
+  background-color: rgb(179, 130, 67);
+  
+}
+
+.container2 {
+
+  height: 100px;
+  width: 100px;
+  background-color: black;
+
+
+
+  border-radius: 0%;
+  
+}

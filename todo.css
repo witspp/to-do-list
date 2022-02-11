@@ -50,3 +50,12 @@ body{
     cursor: pointer;
     font-size: 20px;
 }
+
+.lists{
+   margin-left: 1000px;
+   font-size: 40px;
+  
+}
+.list{
+    padding-bottom: 400px;
+}
